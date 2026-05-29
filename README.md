@@ -7,7 +7,7 @@ Django study/community app. Local db.sqlite3 should be treated as development da
 - Type: Django app
 - Stack: Python, Django, SQLite
 - Run / entry point: `python manage.py runserver`
-- GitHub status: Uploaded: https://github.com/divyanshkrishnatreya/studybud (private)
+- GitHub status: Uploaded: https://github.com/divyanshkrishnatreya/studybud (public)
 
 ## Notes
 
